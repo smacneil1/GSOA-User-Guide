@@ -1,16 +1,48 @@
----
-layout: page
-title: About
-subtitle: Why you'd want to go on a date with me
----
+<div id="fixed_width_content">
+      
 
-My name is Inigo Montoya. I have the following qualities:
+    <center><h2>Gene Set Omic Analysis (GSOA) </h2>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+    <p> By <a href="mailto:smacneil88@gmail.com" target="_blank">Shelley MacNeil</a>
+    </p>
 
-### my history
+    
+<center><h4> Purpose </h4></center>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p>
+This app runs the pathway analysis software Gene Set Omic Analysis (GSOA).
+The main goal of GSOA is to discover pathway difference between two condtions for numerous types of    genomic data. </center>
+
+    
+<center><h4> GSOA Overview </h4></center>
+    
+<center><img src="./Figure_1_edit.jpg" alt="overview" height="377.16" width="552.16"></center>
+
+<center><h4> Publications </h4>
+
+Please see our <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-015-0189-4" target="_blank">  GSOA manuscript in Genome Medicine</a> for more details about the algorithm.
+</p>
+
+<center><h4>Acknowledgements</h4></center>
+<p>
+Thanks to <a href="http://piccolo.byu.edu/" target="_blank">Steve Piccolo</a> for writing GSOA,
+my mentor <a href="http://www.bioscience.utah.edu/faculty/molecular-biology-faculty/bild/bild.php" target="_blank">Andrea Bild</a> 
+<a href="http://www.rstudio.com/" target="_blank">RStudio team</a>
+has provided the community two very powerful tools: 
+<a href="http://shiny.rstudio.com/" target="_blank"><i>Shiny</i></a> and
+<a href="https://www.shinyapps.io/" target="_blank"><i>ShinyApps</i></a>.
+These tools allow R users to quickly develop and to host web applications.</p>
+
+<center><h4>Code</h4>  </center> 
+<p>All app code and source code  can be found in the <i>Code</i> section.</p>
+
+    
+<center><h4>License</h4></center> 
+    <p>
+    <p>
+<br>
+
+
+</div>
+
