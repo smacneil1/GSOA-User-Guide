@@ -14,10 +14,10 @@ baseurl: "/gsoa-user-guide"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: home
+title: GSOA
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: User Guide
 
 # --- Navigation bar options --- #
 
