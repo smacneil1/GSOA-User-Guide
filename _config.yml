@@ -17,7 +17,7 @@ baseurl: "/gsoa-user-guide"
 title: GSOA
 
 # Short description of your site
-description: User Guide
+description: User's Guide
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
   about: "about"
   manual: "manual"
   source: "source"
-  download: "download2"
+  download: "download"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - GitHub Pages: "https://pages.github.com/"
